@@ -1,0 +1,14 @@
+{
+  "name": "validomodule",
+  "version": "1.0.0",
+  "description": "Create a reusable module to validate user input data.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohanz",
+  "license": "ISC"
+}
